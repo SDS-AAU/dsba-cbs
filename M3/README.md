@@ -1,0 +1,2 @@
+# M3: Deep Learning and Artificial Intelligence for Analytics
+Introduces to the most recent developments in machine learning, which are deep learning and artificial intelligence applications. The module will provide a solid foundation for this exciting and rapidly developing field. Students will learn whether and how to apply deep learning techniques for business analytics, and acquire proficiency in new methods autonomously.
