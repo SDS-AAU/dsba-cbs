@@ -2,10 +2,10 @@
 The central repository for the cours "Data Science fo Business Analytics" (DSBA) at Copenhagen Business School (CBS). HEre, you will find all teaching material and further 
 
 ## General Information
-* 
-https://cbscanvas.instructure.com/courses/11902
+* The corresponding CBS CANVAC course page can be found [here](https://cbscanvas.instructure.com/courses/11902). Note that `github` rather than CANVAS will represent the central hub for teaching material.
 
 ## Main Teaching Reference
+While this course does not come with a list of mandatory readings, we will often refer to some central resources in R and python, which for the most part can always be accessed in a free and updated online version.  We generally recommed you to use these amazing ressources for problem-solfing and further self-study on the topic.
 
 ### R
 
