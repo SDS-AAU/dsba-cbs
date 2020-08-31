@@ -3,31 +3,17 @@ The central repository for the cours "Data Science fo Business Analytics" (DSBA)
 
 Short description lorem ipsum ... lorem ipsum ... lorem ipsum ... lorem ipsum ... lorem ipsum ... lorem ipsum ... lorem ipsum ... lorem ipsum ... lorem ipsum ... lorem ipsum ... lorem ipsum ... lorem ipsum ... lorem ipsum ... lorem ipsum ... lorem ipsum ... lorem ipsum ... lorem ipsum ...
 
-# [M1: Introduction to Data Science](https://github.com/SDS-AAU/SDS-master/tree/master/M1)
+https://cbscanvas.instructure.com/courses/11902
 
-Short description lorem ipsum ... lorem ipsum ... lorem ipsum ... lorem ipsum ... lorem ipsum ... lorem ipsum ... lorem ipsum ... lorem ipsum ... lorem ipsum ... lorem ipsum ... lorem ipsum ... lorem ipsum ... lorem ipsum ... lorem ipsum ... lorem ipsum ... lorem ipsum ... lorem ipsum ...
 
-* Item1
-* Item2
-* Item3
+## [M1: Applied Data Science and Machine Learning]()
+This module will prove a condensed introduction to the “Data Science Pipeline”, introducing students to methods, techniques, and workflows in applied data analytics and machine learning, including data acquisition, preparation, analysis, visualization, and communication.
 
-tst test test
+: 
+: 
 
-<!--- COMMENTED OUT FROM HERE ----------- ONLY UNCOMMENT AFTER UPDATED & TESTED
-# [M2: Network Analysis & Natural-Language-Processing](https://github.com/SDS-AAU/SDS-master/tree/master/M2)
+## [M2: Network Analysis and Natural Language Processing]()
+Focuses on analyzing a variety of unstructured data sources. Particularly, students will learn how to explore, analyze, and visualize natural language (text) as well as relational (network) data.
 
-Short description lorem ipsum ... lorem ipsum ... lorem ipsum ... lorem ipsum ... lorem ipsum ... lorem ipsum ... lorem ipsum ... lorem ipsum ... lorem ipsum ... lorem ipsum ... lorem ipsum ... lorem ipsum ... lorem ipsum ... lorem ipsum ... lorem ipsum ... lorem ipsum ... lorem ipsum ...
-
-* Item1
-* Item2
-* Item3
-
-# [M2: Artificial Neural networks & Deep Learning](https://github.com/SDS-AAU/SDS-master/tree/master/M3)
-
-Short description lorem ipsum ... lorem ipsum ... lorem ipsum ... lorem ipsum ... lorem ipsum ... lorem ipsum ... lorem ipsum ... lorem ipsum ... lorem ipsum ... lorem ipsum ... lorem ipsum ... lorem ipsum ... lorem ipsum ... lorem ipsum ... lorem ipsum ... lorem ipsum ... lorem ipsum ...
-
-* Item1
-* Item2
-* Item3
-
----------------------------------------->
+## [M3: Deep Learning and Artificial Intelligence for Analytics]()
+Introduces to the most recent developments in machine learning, which are deep learning and artificial intelligence applications. The module will provide a solid foundation for this exciting and rapidly developing field. Students will learn whether and how to apply deep learning techniques for business analytics, and acquire proficiency in new methods autonomously.
