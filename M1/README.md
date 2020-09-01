@@ -32,6 +32,6 @@ This module will prove a condensed introduction to the â€œData Science Pipelineâ
    * R [Video](https://www.loom.com/share/0f3f166a4234429bb1bf2e8c443bad39) [Colab](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M1/notebooks/DS_basics_example_group_merge_R.ipynb#offline=true&sandboxMode=true)
    * Python [Video](https://www.loom.com/share/257a4e764bd74ee7b39f1027821e0838) [Colab](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M1/notebooks/DS_basics_example_group_merge_py.ipynb)
    
-   ## Data Manipulation & Exploration 
+## Data Manipulation & Exploration 
 - EDA-Case: Open Policing Project
     Python Video [1](https://www.loom.com/share/4c5b046d6cf5465cbf6ca50f8d037461) [Colab](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M1/notebooks/data_exploration_case_py.ipynb)
