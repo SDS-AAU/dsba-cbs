@@ -4,9 +4,42 @@ The central repository for the cours "Data Science fo Business Analytics" (DSBA)
 ## General Information
 * The corresponding CBS CANVAS course page can be found [here](https://cbscanvas.instructure.com/courses/11902). Note that `github` rather than CANVAS will represent the central hub for teaching material.
 
-## Important Deadlines
+## Schedule and Calendar:
 
-tba soon
+### General
+
+* Final exam: tba. (early December)
+
+### M1: Week 35-39
+
+* Key Dates
+  * In-person workshop days: W39, 22-23.09.2020
+  * Assignment: 23.09.2020 - 28.09.2020
+  
+* Topics
+   * W 35: Introduction & landing
+   * W 36: Data Manipulatrion, EDA, Data Visualization
+   * W 37: Unsupervised Machine Learning
+   * W 38: Supervised Machine Learning
+   * W 39: Project work
+
+### M2: Week 40-44
+
+* Key Dates
+  * In-person workshop days: 27-28.10.2020
+  * Assignment: 29-10.2020-02.11.2020
+  
+* Topics
+   * W 
+
+### M3: Week 45-49
+
+* Key Dates
+  * In-person workshop days: 01.12.2020-02.12.2020
+  * Assignment: 11.11.2020-15.11.2020
+  
+* Topics
+   * W 
 
 ## Main Teaching Reference
 While this course does not come with a list of mandatory readings, we will often refer to some central resources in R and python, which for the most part can always be accessed in a free and updated online version.  We generally recommed you to use these amazing ressources for problem-solfing and further self-study on the topic.
