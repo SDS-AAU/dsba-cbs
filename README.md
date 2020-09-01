@@ -18,9 +18,9 @@ The central repository for the cours "Data Science fo Business Analytics" (DSBA)
   
 * Topics
    * W 35: Introduction & landing
-   * W 36: Data Manipulatrion, EDA, Data Visualization
-   * W 37: Unsupervised Machine Learning
-   * W 38: Supervised Machine Learning
+   * W 36: Data Manipulation, Exploratory Data Analysis (EDA), Data Visualization
+   * W 37: Unsupervised Machine Learning (UML)
+   * W 38: Supervised Machine Learning (SML)
    * W 39: Project work
 
 ### M2: Week 40-44
@@ -30,8 +30,11 @@ The central repository for the cours "Data Science fo Business Analytics" (DSBA)
   * Assignment: 29-10.2020-02.11.2020
   
 * Topics
-   * W 
-
+   * W 40: Introduction to Network Analysis
+   * W 41: Introduction to Natural-Language-Processing (NLP)
+   * W 43: Advanced applications in Network and Text Analysis
+   * W 44: Project work
+   
 ### M3: Week 45-49
 
 * Key Dates
@@ -39,7 +42,10 @@ The central repository for the cours "Data Science fo Business Analytics" (DSBA)
   * Assignment: 11.11.2020-15.11.2020
   
 * Topics
-   * W 
+   * W 45: Introduction to Artificial Neural Networks (ANN) & Deep Learning (DL)
+   * W 46: Neural networks for spatial data: Recurrent Neural Networks (RNN)
+   * W 47: Neural Networks for sequential data: Recurrent Neural networks (RNN & LSTM)
+   * W 49: AdvancedDL applications & project work
 
 ## Main Teaching Reference
 While this course does not come with a list of mandatory readings, we will often refer to some central resources in R and python, which for the most part can always be accessed in a free and updated online version.  We generally recommed you to use these amazing ressources for problem-solfing and further self-study on the topic.
