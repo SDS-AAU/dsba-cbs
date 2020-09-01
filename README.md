@@ -1,5 +1,5 @@
 # Course Page: Data Science for Business Applications
-The central repository for the cours "Data Science fo Business Analytics" (DSBA) at Copenhagen Business School (CBS). HEre, you will find all teaching material and further information.
+The central repository for the cours "Data Science fo Business Analytics" (DSBA) at Copenhagen Business School (CBS). Here, you will find all teaching material and further information.
 
 ## General Information
 * The corresponding CBS CANVAS course page can be found [here](https://cbscanvas.instructure.com/courses/11902). Note that `github` rather than CANVAS will represent the central hub for teaching material.
