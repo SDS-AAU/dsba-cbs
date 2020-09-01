@@ -8,6 +8,10 @@ The central repository for the cours "Data Science fo Business Analytics" (DSBA)
 
 ### General
 
+* General structure:
+   * Pre-recorded lectures usually online by Monday Morning
+   * Q&A usually in the allocated timeslots Tuesdays 4.15-5.15pm
+
 * Final exam: tba. (early December)
 
 ### M1: Week 35-39
