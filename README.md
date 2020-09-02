@@ -3,6 +3,7 @@ The central repository for the cours "Data Science fo Business Analytics" (DSBA)
 
 ## General Information
 * The corresponding CBS CANVAS course page can be found [here](https://cbscanvas.instructure.com/courses/11902). Note that `github` rather than CANVAS will represent the central hub for teaching material.
+* Teaching assistant: Christian Døj Friis <cdf.digi@cbs.dk>: Feel free to ask for guidance :)
 
 ## Schedule and Calendar:
 
