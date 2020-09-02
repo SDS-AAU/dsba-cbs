@@ -34,6 +34,7 @@ This module will prove a condensed introduction to the â€œData Science Pipelineâ
    
 ## Data Manipulation & Exploration 
 
-* EDA-Case: Open Policing Project
+* **Homework (W36)** EDA-Case: Open Policing Project
    * Python Video [1](https://www.loom.com/share/4c5b046d6cf5465cbf6ca50f8d037461) [Colab](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M1/notebooks/data_exploration_case_py.ipynb)
    * R Video [Colab](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M1/notebooks/EDA_case_policing_R.ipynb)
+
