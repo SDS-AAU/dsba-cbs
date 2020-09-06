@@ -47,4 +47,4 @@ This is not graded or required to complete the course. However, we suggest you u
 ### Unsupervised ML
 
 - Theory: Introduction to unsupervised ML [Slides](https://SDS-AAU.github.io/SDS-master/M1/slides/SDS-M1-UML_Intro.pdf) Video
-   -  Application Py: Video [Colab](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M1/notebooks/SDS_M1_intro_UML.ipynb)
+   -  Application Py: Video [Colab](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M1/notebooks/ML_intro_UML.ipynb)
