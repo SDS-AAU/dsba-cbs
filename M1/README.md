@@ -36,15 +36,19 @@ This module will prove a condensed introduction to the “Data Science Pipeline�
 
 ### **Homework (W36)** 
 This is not graded or required to complete the course. However, we suggest you use these exercises as a challnge to see where you are...
-- Data manipulation example: join & group_by - see end of the notebooks (easy “your turn” and advanced “extended homework”), take it as a challenge. Try to solve. Don’t be worried if things don’t work out right away
-- Open Policing Project: Check out the videos and notebooks - The videos do not cover all the notebooks. Then: Initiate a new notebook, load up the same data (copy-paste first part of the notebooks) and try to explore alternative questions. There are many ways to get insights with this dataset
+
+* Data manipulation example: join & group_by - see end of the notebooks (easy “your turn” and advanced “extended homework”), take it as a challenge. Try to solve. Don’t be worried if things don’t work out right away
+* Open Policing Project: Check out the videos and notebooks - The videos do not cover all the notebooks. Then: Initiate a new notebook, load up the same data (copy-paste first part of the notebooks) and try to explore alternative questions. There are many ways to get insights with this dataset
    * Python Video [1](https://www.loom.com/share/4c5b046d6cf5465cbf6ca50f8d037461) [2](https://www.loom.com/share/43b5be68c59b44b3b9f3a3e4bf1a3fc8) [3](https://www.loom.com/share/6a5b11c1ad004ae48875528767253590) [Colab](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M1/notebooks/data_exploration_case_py.ipynb)
    * R Video [Colab](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M1/notebooks/EDA_case_policing_R.ipynb)
 
+### Data Visualization
+* Theory: Data Visualization [Video](https://www.loom.com/share/73c049cd420d46f3b1129944b0e9e6ea) [Slides](https://sds-aau.github.io/SDS-master/M1/notebooks/EDA_dataviz_intro.html)
+   * Application: R [Video](https://www.loom.com/share/c1b84f6e59ce4b02935b0088744cfc5b) [Html](https://sds-aau.github.io/SDS-master/M1/notebooks/EDA_dataviz_application_R.nb.html) [Colab](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M1/notebooks/EDA_dataviz_application_R.ipynb)
+   * Application: Python Video (coming) [Colab](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M1/Notebooks/EDA_dataviz_application_Py.ipynb)
 
 ## Machine Learning
 
 ### Unsupervised ML
-
-- Theory: Introduction to unsupervised ML [Slides](https://SDS-AAU.github.io/SDS-master/M1/slides/SDS-M1-UML_Intro.pdf) Video
-   -  Application Py: Video [Colab](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M1/notebooks/ML_intro_UML.ipynb)
+* Theory: Introduction to unsupervised ML [Slides](https://SDS-AAU.github.io/SDS-master/M1/slides/SDS-M1-UML_Intro.pdf) Video
+   *  Application Py: Video [Colab](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M1/notebooks/ML_intro_UML.ipynb)
