@@ -5,7 +5,7 @@ The central repository for the cours "Data Science fo Business Analytics" (DSBA)
 
 * Semester Kick-Off [Video](https://cbscanvas.instructure.com/courses/11902/pages/video-kick-off-semester-structure-content-and-aob?module_item_id=268881) [Slides](https://cbscanvas.instructure.com/courses/11902/files/346202?module_item_id=270101)
 * The corresponding CBS CANVAS course page can be found [here](https://cbscanvas.instructure.com/courses/11902). Note that `github` rather than CANVAS will represent the central hub for teaching material.
-* Teaching assistant: Christian Døj Friis (<cdf.digi@cbs.dk>): Feel free to ask for guidance :) (Communication via MA Teams preffered)
+* Teaching assistant: Christian Døj Friis (<cdf.digi@cbs.dk>): Feel free to ask for guidance :) (Communication via MS Teams preffered)
 
 
 ## Schedule and Calendar:
