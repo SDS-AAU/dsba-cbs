@@ -53,4 +53,5 @@ Not part of the grade, just for you to get a feel about where you are
   *  Application Python: Video [1-dimensionality reduction](https://www.loom.com/share/cf84d4225a064aa2857d26ae82f94588) [2-clustering](https://www.loom.com/share/76920b0d281a422cada427226ed7e54c) [Colab](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M1/notebooks/ML_intro_UML.ipynb)
 
 
-   
+### **Homework (W37)** Data Manipulation, EDA and Viz - Nomad Dataset
+To get a "reality check" on your data manipulation, EDA and Viz. skills you can now explore/solve [this assignment](https://github.com/SDS-AAU/dsba-cbs/blob/master/M1/assignments/DSBA-M1A1.pdf). Here you are going to work with 2(3) real world datasets, exploring lives of digital nomads - a community of remote workers mostly within IT, data and creative professions.
