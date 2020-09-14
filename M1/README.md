@@ -57,3 +57,5 @@ Not part of the grade, just for you to get a feel about where you are
 To get a "reality check" on your data manipulation, EDA and Viz. skills you can now explore/solve [this assignment](https://github.com/SDS-AAU/dsba-cbs/blob/master/M1/assignments/DSBA-M1A1.pdf). Here you are going to work with 2(3) real world datasets, exploring lives of digital nomads - a community of remote workers mostly within IT, data and creative professions.
 
  # Part III: Supervised Machine Learning
+ 
+ * Theory: Introduction to supervised ML [Slides](https://SDS-AAU.github.io/SDS-master/M1/Notebooks/SML_introduction_theory.html) Video [1: Introduction & Statistics Refresher](https://www.loom.com/share/1092fff1eb8843a0b084618a8118c3db) Video [2: Generalization, Hyperparameter Tuning & Model Clases](https://www.loom.com/share/b985e4e058b6459f955bf6280d3ad560)
