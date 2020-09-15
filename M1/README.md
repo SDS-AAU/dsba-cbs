@@ -50,18 +50,17 @@ Not part of the grade, just for you to get a feel about where you are
 # Part II: Unsupervised Machine Learning (UML)
 
 * Theory: Introduction to unsupervised ML [Slides](https://SDS-AAU.github.io/SDS-master/M1/slides/SDS-M1-UML_Intro.pdf) [Video](https://www.loom.com/share/c5c8daaf85b242cb935cae53613c23e3)
-  *  Application Python: Video [1-dimensionality reduction](https://www.loom.com/share/cf84d4225a064aa2857d26ae82f94588) [2-clustering](https://www.loom.com/share/76920b0d281a422cada427226ed7e54c) [Colab](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M1/notebooks/ML_intro_UML.ipynb)
-
-
-### **Homework (W37)** Data Manipulation, EDA and Viz - Nomad Dataset
+   *  Application Python: Video [1-dimensionality reduction](https://www.loom.com/share/cf84d4225a064aa2857d26ae82f94588) [2-clustering](https://www.loom.com/share/76920b0d281a422cada427226ed7e54c) [Colab](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M1/notebooks/ML_intro_UML.ipynb)
+   * Application R: Video [1: EDA & Dimensionality Reduction](https://www.loom.com/share/d3934db4292840afadc8626e7fb613b5) [2: Clustyering:](https://www.loom.com/share/60a9d3ca4d5f4ce790f51562af7da6fc) [Html](https://sds-aau.github.io/SDS-master/M1/Notebooks/UML_application_R.nb.html) [Colab](https://github.com/SDS-AAU/SDS-master/blob/master/M1/Notebooks/UML_application_R.ipynb)
+ 
+ ### **Homework (W37)** Data Manipulation, EDA and Viz - Nomad Dataset
 To get a "reality check" on your data manipulation, EDA and Viz. skills you can now explore/solve [this assignment](https://github.com/SDS-AAU/dsba-cbs/blob/master/M1/assignments/DSBA-M1A1.pdf). Here you are going to work with 2(3) real world datasets, exploring lives of digital nomads - a community of remote workers mostly within IT, data and creative professions.
 
  # Part III: Supervised Machine Learning
  
  * Theory: Introduction to supervised ML [Slides](https://SDS-AAU.github.io/SDS-master/M1/Notebooks/SML_introduction_theory.html) Video [1: Introduction & Statistics Refresher](https://www.loom.com/share/1092fff1eb8843a0b084618a8118c3db) Video [2: Generalization, Hyperparameter Tuning & Model Clases](https://www.loom.com/share/b985e4e058b6459f955bf6280d3ad560)
 
-
 ### **Homework (W38)** Combining UML and SML in the Nomad Dataset
 Use this dataset https://sds-aau.github.io/SDS-master/M1/data/cities.csv to apply your UML and SML skills.
 - You are preparing a report that studies the destinations of Digital Nomads. It seems as if there are different groups of people in this community that tend to stick to specific types of places. Using dimensionality reduction and clustering techniques, identify and visualize 3 groups of cities in the world. How would you describe the groups? Consider first which variables are useful and which should be left out.
-- Using supervised ML train a model that - given some variables describing a city - predicts on which continent / in which region the city can be found.
+- Using supervised ML, train a model that - given some variables describing a city - predicts on which continent / in which region the city can be found.
