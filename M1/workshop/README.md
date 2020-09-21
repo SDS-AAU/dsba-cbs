@@ -9,6 +9,7 @@
 * Interactive Data Manipulation & EDA on the digital Nomads Dataset
 
 ### Session 2: 12:45 - 14:15
+* Introducing the InsideAirB&B dataset
 * Hypothesis generation workshop
 * Group work on EDA
 
@@ -23,7 +24,6 @@
 ### Session 1: 15:20 - 16:50
 * Review UML on digital Nomads
 * SML warm-up
-* Introducing the InsideAirB&B dataset
 * Hypothesis generation workshop
 
 ### Session 2: 17:05 - 18:55 (including flexible break)
