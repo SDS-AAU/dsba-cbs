@@ -56,7 +56,7 @@ Not part of the grade, just for you to get a feel about where you are
 ### **Homework (W37)** Data Manipulation, EDA and Viz - Nomad Dataset
 To get a "reality check" on your data manipulation, EDA and Viz. skills you can now explore/solve [this assignment](https://github.com/SDS-AAU/dsba-cbs/blob/master/M1/assignments/DSBA-M1A1.pdf). Here you are going to work with 2(3) real world datasets, exploring lives of digital nomads - a community of remote workers mostly within IT, data and creative professions.
 
-* Example Solution R [Html](https://sds-aau.github.io/SDS-master/M1/Notebooks/assignments/homework_assignment1_solution.nb.html) Still to be completed
+* Example Solution R [Html](https://sds-aau.github.io/SDS-master/M1/Notebooks/assignments/homework_assignment1_solution.nb.html)
 
 # Part III: Supervised Machine Learning
  
