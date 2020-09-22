@@ -7,6 +7,7 @@
 * Introduction, warm-up & Q&A
 * Group formation
 * Interactive Data Manipulation & EDA on the digital Nomads Dataset
+  * [Dimensionality Reduction & Geoplotting (R)](https://sds-aau.github.io/SDS-master/M1/Notebooks/exercises/UML_workshop_digital_nomads.nb.html)
 
 ### Session 2: 12:45 - 14:15
 * Introducing the InsideAirB&B dataset
