@@ -31,7 +31,7 @@
 
 ### Session 2: 17:05 - 18:55 (including flexible break)
 * Group work on SML
-   * [SML on AirBnB (R)](https://sds-aau.github.io/SDS-master/M1/Notebooks/exercises/ML_workshop_insideAirBnB_2_SML.nb.html)
+   * [SML on AirBnB (R)](https://github.com/SDS-AAU/SDS-master/blob/master/M1/Notebooks/exercises/ML_workshop_InsideAirBnB_2_SML.nb.html)
 
 ### Session 3: 19:10 - 20:40
 * Group presentations of results
