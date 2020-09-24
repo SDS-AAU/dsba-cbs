@@ -71,3 +71,6 @@ To get a "reality check" on your data manipulation, EDA and Viz. skills you can 
 Use this dataset https://sds-aau.github.io/SDS-master/M1/data/cities.csv to apply your UML and SML skills.
 - You are preparing a report that studies the destinations of Digital Nomads. It seems as if there are different groups of people in this community that tend to stick to specific types of places. Using dimensionality reduction and clustering techniques, identify and visualize 3 groups of cities in the world. How would you describe the groups? Consider first which variables are useful and which should be left out.
 - Using supervised ML, train a model that - given some variables describing a city - predicts on which continent / in which region the city can be found.
+
+### M1 Workshop
+* [Agenda & notebooks](https://github.com/SDS-AAU/dsba-cbs/blob/master/M1/workshop/README.md)
