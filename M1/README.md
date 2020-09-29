@@ -74,3 +74,7 @@ Use this dataset https://sds-aau.github.io/SDS-master/M1/data/cities.csv to appl
 
 ### M1 Workshop
 * [Agenda & notebooks](https://github.com/SDS-AAU/dsba-cbs/blob/master/M1/workshop/README.md)
+
+### M1 Assignment
+* Minimal-Solution 
+  * R [Html](https://sds-aau.github.io/SDS-master/M1/Notebooks/assignments/exercise_pokemon_solution.nb.html)
