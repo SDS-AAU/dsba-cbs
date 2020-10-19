@@ -24,3 +24,7 @@
    * [M2: NLP intro - Text representation](https://www.loom.com/share/d97ba6e1e1a344899c83616b290cd888?sharedAppSource=personal_library)
    * [M2: NLP intro - From BoW to Topic Modeling and Embeddings](https://www.loom.com/share/2a7b0791c906457cab0c57e0618dc68b?sharedAppSource=personal_library)
    * [History of NLP in Industry - Yoav Goldberg: The missing elements in NLP (spaCy IRL 2019) - YouTube](https://youtu.be/e12danHhlic)
+
+
+* Application: String Manipulation
+   * Python: [Colab](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M2/notebooks/NLP_intro_py.ipynb) [Video 1](https://www.loom.com/share/44d9ad8917fb4b9585110c507640ff3c?sharedAppSource=personal_library) [Video 2](https://www.loom.com/share/109433b5063d445aa2dd1b19d263afee?sharedAppSource=personal_library)
