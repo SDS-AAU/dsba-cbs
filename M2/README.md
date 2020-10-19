@@ -16,3 +16,11 @@
 * Application: Network Visualization
    * R: Video [1: Node & Edge Visualization](https://www.loom.com/share/a76f6ef6a09e4c8280e306c5458ca1bd) [2: Graph Layouts](https://www.loom.com/share/91375f4f85df4ce2b6f199f6b52390c2) [Html](https://sds-aau.github.io/SDS-master/M2/notebooks/network_analysis_application_visualization.nb.html) [Colab](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M2/notebooks/network_analysis_application_visualization.ipynb)
       * Exercises R: [1: Directed NWs](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M2/exercises/network_analysis_application_directed_ex1.ipynb)
+
+## Part II: Natural Language Processing
+
+* Theory: 
+   * [M2: NLP intro - level of analysis](https://www.loom.com/share/289e4e0e91c24e759ae84a11cb06f78c?sharedAppSource=personal_library)
+   * [M2: NLP intro - Text representation](https://www.loom.com/share/d97ba6e1e1a344899c83616b290cd888?sharedAppSource=personal_library)
+   * [M2: NLP intro - From BoW to Topic Modeling and Embeddings](https://www.loom.com/share/2a7b0791c906457cab0c57e0618dc68b?sharedAppSource=personal_library)
+   * [History of NLP in Industry - Yoav Goldberg: The missing elements in NLP (spaCy IRL 2019) - YouTube](https://youtu.be/e12danHhlic)
