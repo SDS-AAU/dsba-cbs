@@ -28,3 +28,6 @@
 
 * Application: String Manipulation
    * Python: [Colab](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M2/notebooks/NLP_intro_py.ipynb) [Video 1](https://www.loom.com/share/44d9ad8917fb4b9585110c507640ff3c?sharedAppSource=personal_library) [Video 2](https://www.loom.com/share/109433b5063d445aa2dd1b19d263afee?sharedAppSource=personal_library)
+
+* Application: Working with long text and extracting text elements
+   * Python: [Colab](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M2/notebooks/NLP_Longtext_py.ipynb) [Video](https://www.loom.com/share/e5480f30f379471e975d9080ecd6bb44) can be watched at 1.5x :wink: Link to News-scraping tutorial in the notebook.
