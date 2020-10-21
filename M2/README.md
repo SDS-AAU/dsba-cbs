@@ -13,8 +13,9 @@
    * Python: Video [1: DiGraphs-intro](https://www.loom.com/share/6a8c8d5d6b8e4e989356b5ca4fa47035?sharedAppSource=personal_library)  [2: DiGraphs-Case](https://www.loom.com/share/fb7a9e91d67e487094b390c9b509737c?sharedAppSource=personal_library) [Colab](https://github.com/SDS-AAU/SDS-master/blob/master/M2/notebooks/M2_Directed_Networks_hands_on_Python.ipynb)
 
 * Application: Bipartite (2-mode) Networks
-   * R: Video [1: Bipartite NW structures](https://www.loom.com/share/7668a71c95f941a1a17148e45ba83689) [2: Application Bibliometric Networks]() [Html](https://www.loom.com/share/2fdf16a87a9d4eac81d50cef0b55ae3b?from_recorder=1) [Colab](network_analysis_application_bipartite.ipynb)
-      * Exercise R: [Bibliometric Networks](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M2/exercises/network_analysis_application_bipartit_ex1.ipynb)
+   * R: Video [1: Bipartite NW structures](https://www.loom.com/share/7668a71c95f941a1a17148e45ba83689) [2: Application Bibliometric Networks](https://www.loom.com/share/2fdf16a87a9d4eac81d50cef0b55ae3b) [Html](https://sds-aau.github.io/SDS-master/M2/notebooks/network_analysis_application_bipartite.nb.html) [Colab](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M2/notebooks/network_analysis_application_bipartite.ipynb)
+ <!---     * Exercise R: [Bibliometric Networks](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M2/exercises/network_analysis_application_bipartit_ex1.ipynb) --->
+
 
 ## Part II: Natural Language Processing
 
