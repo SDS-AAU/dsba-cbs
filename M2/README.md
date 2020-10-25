@@ -33,3 +33,6 @@
 * Application: Working with long text and extracting text elements
    * Python: [Colab](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M2/notebooks/NLP_Longtext_py.ipynb) [Video](https://www.loom.com/share/e5480f30f379471e975d9080ecd6bb44) can be watched at 1.5x :wink: Link to News-scraping tutorial in the notebook.
     * R: Video [comming soon]() [Html (work in progress)](https://sds-aau.github.io/SDS-master/M2/notebooks/NLP_long_text_R.nb.html) [Colab comming soon](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M2/notebooks/NLP_long_text_R.ipynb)
+
+* Application: Vectorization and Topic Modelling
+   * Python: [Colab](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M2/notebooks/M2_NLP_TexVec_Py.ipynb) [Video - Ecosystem](https://www.loom.com/share/64b94c41755b4a78bdfe354203c10104) [Video - Tutorial](https://www.loom.com/share/3dc09124ae7a4525872384d13be3ec36)
