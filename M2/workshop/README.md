@@ -5,16 +5,17 @@
 
 ### Session 1: 10:45 - 12:15
 * Introduction, warm-up & Q&A
-* Workshop: Network Case 1 Danish Power Elite
+* Workshop: Network Case 1: Danish Power Elite
    * Data: https://github.com/SDS-AAU/SDS-master/raw/master/00_data/networks/elite_den17.csv
    * R: [Html](https://sds-aau.github.io/SDS-master/M2/exercises/networks_danish_elite.nb.html)
 
 ### Session 2: 12:45 - 14:15
-* Workshop: NLP Case 1 <!-- (CORDIS & PROJECTS) -->
+* Workshop: NLP Case 1: CORDIS & PROJECTS
+   * Data: 
 
 ### Session 3: 14:30 - 16:00
-* Workshop: NLP + predictive modelling
-* Result presentation & Wrapping up
+* Workshop: NLP + predictive modelling: Congressional tweets
+   * Data: https://github.com/SDS-AAU/SDS-master/raw/master/M2/data/pol_tweets.gz
 
 
 ## Day 2 (11:45 - 17:00): 
