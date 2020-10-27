@@ -11,7 +11,8 @@
 
 ### Session 2: 12:45 - 14:15
 * Workshop: NLP Case 1: CORDIS & PROJECTS
-   * Data: 
+   * Data: https://github.com/SDS-AAU/SDS-master/raw/master/M2/data/cordis-h2020reports.gz
+   * R: [Html](https://sds-aau.github.io/SDS-master/M2/exercises/NLP_workshop_CORDIS.nb.html)
 
 ### Session 3: 14:30 - 16:00
 * Workshop: NLP + predictive modelling: Congressional tweets
