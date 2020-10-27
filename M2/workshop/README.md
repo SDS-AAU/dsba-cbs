@@ -5,7 +5,8 @@
 
 ### Session 1: 10:45 - 12:15
 * Introduction, warm-up & Q&A
-* Workshop: Network Case 1 <!-- (Danish Power Elite) -->
+* Workshop: Network Case 1 Danish Power Elite
+   * Data: https://github.com/SDS-AAU/SDS-master/raw/master/00_data/networks/elite_den17.csv
 
 ### Session 2: 12:45 - 14:15
 * Workshop: NLP Case 1 <!-- (CORDIS & PROJECTS) -->
