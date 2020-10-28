@@ -29,3 +29,15 @@
 * Evaluation will focus on correct application and communication of DS methods
 * The level of "technicality" is as in the course with empasis on application and intuition, not on ML engineering / mathematics
 * However, you will need to demonstrate insight into statistics on a level that is required to discuss your assignment e.g. interpret and discuss performance indicators, outline strategies for improvement e.g. under/oversampling
+
+## Examples
+
+*
+*
+
+## Data Scourses
+
+* [Kaggle](https://www.kaggle.com/datasets):
+*
+
+# Further advice
