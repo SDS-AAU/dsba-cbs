@@ -1,3 +1,5 @@
+# DSBA M2 Assignment
+
 # Part I: Network analysis
 
 ## Introduction
@@ -102,7 +104,7 @@ The best-reported results for this dataset are.
 Here advanced NLP feature engineering has been used, and thus everything around an overall accuracy of 85 is fine. You will see that it is not easy to lift class 0 accuracy over 0.5
 Good Luck!
 
-## Deliverables
+# Deliverables
 
 Please submit a PDF or HTML version of your notebook on peergrade.io (if you submit HTML, please zip it before - large embedded HTMLs from cause crashing when oppened directly in peergrade). In adittion, feel free to include a colab link (non-mandatory)). Please make sure it runs without errors and others can access it (i.e. own test in “anonymous” setting in your browser).
 
@@ -111,7 +113,7 @@ This notebook should:
 * It should solve the questions in an straightforward and elegant way.
 * It should contain enough explanations to enable your fellow students (or others on a similar level of knowledge) to clearly understand what you are doing, why, what is the outcome, how to interpret it, and how to reconstruct the exercise. Be specific and understandable, but brief.
 
-## Further process and dates
+# Further process and dates
 
 * Hand in deadline: **02.22.2020, 11.55pm**
 * You will receive an upload link on peergrade.io with concrete instructions.
