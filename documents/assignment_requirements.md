@@ -32,7 +32,7 @@
 
 ## Examples
 
-*
+* [XXXX](https://sds-aau.github.io/dsba-cbs/documents/M3_example_housrprice.html)
 *
 
 ## Data Scourses
