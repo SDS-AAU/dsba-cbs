@@ -23,7 +23,8 @@
 * Location: Auditorium PH Ovnhallen + MS teams
 
 ### Session 1: 11:45 - 13:15
-* Workshop: NLP + NW Case 1 <!-- (Twitter Election Case) -->
+* Workshop: NLP + Prediction of new data
+   * Data: https://github.com/SDS-AAU/SDS-master/raw/master/M2/data/pres_debate_2020.gz
 
 ### Session 2: 13:45 - 15:15
 * Workshop: Group work on pedictive modelling
