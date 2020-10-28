@@ -36,3 +36,7 @@
 
 * Application: Vectorization and Topic Modelling
    * Python: [Colab](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M2/notebooks/M2_NLP_TexVec_Py.ipynb) [Video - Ecosystem](https://www.loom.com/share/64b94c41755b4a78bdfe354203c10104) [Video - Tutorial](https://www.loom.com/share/3dc09124ae7a4525872384d13be3ec36)
+   
+## Assignment
+
+* [Description](https://sds-aau.github.io/SDS-AAU/dsba-cbs/blob/master/documents/assignment_requirements.md)
