@@ -1,4 +1,4 @@
-# Requirements outline DSBA assignment
+# Requirements outline DSBA final project 
 **Roman Jurowetzki - Daniel Hain**
 
 ## Format
