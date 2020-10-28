@@ -19,6 +19,7 @@ The dataset includes 4 files - 3xKrack-High-Tec and 1x High-Tec-Attributes. Krac
 •	REPORTS_TO, directed, binary
 
 Column 1 contains the ID of the ego (from where the edge starts), and column 2 the alter (to which the edge goes). Column 3 indicates the presence (=1) or absence (=0) of an edge.
+
 High-Tec-Attributes includes one 21x4 valued matrix.
 
 •	ID: Numeric ID of the manager
@@ -113,5 +114,4 @@ This notebook should:
 Further process and dates
 
 * You will receive an upload link on peergrade.io with concrete instructions.
-* The notebook upload is also due xxx, 11:55pm. Delays are not accepted.
-* After the upload deadline, you will recieve an invitation to peergrade your fellows' exams on peergrade.io. You will be asked for the evaluation of 3 peer-assignments is part of the assignment and mandatory.
+* After the upload deadline, you will recieve an invitation to peergrade your fellows' exams on peergrade.io. You will be asked for the evaluation of 3 peer-assignments.
