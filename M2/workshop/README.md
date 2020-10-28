@@ -24,10 +24,10 @@
 
 ### Session 1: 11:45 - 13:15
 * Workshop: NLP + Prediction of new data
-   * Data: https://github.com/SDS-AAU/SDS-master/raw/master/M2/data/pres_debate_2020.gz
 
 ### Session 2: 13:45 - 15:15
 * Workshop: Group work on pedictive modelling
+   * Data: https://github.com/SDS-AAU/SDS-master/raw/master/M2/data/pres_debate_2020.gz
 
 ### Session 3: 15:30 - 17:00
 * Introduction to the final project, guides & advices how to approach it.
