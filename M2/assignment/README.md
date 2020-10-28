@@ -115,7 +115,7 @@ This notebook should:
 
 # Further process and dates
 
-* Hand in deadline: **02.22.2020, 11.55pm**
+* Hand in deadline: **02.11.2020, 11.55pm**
 * You will receive an upload link on peergrade.io with concrete instructions.
 * After the upload deadline, you will recieve an invitation to peergrade your fellows' exams on peergrade.io. You will be asked for the evaluation of 3 peer-assignments.
 
