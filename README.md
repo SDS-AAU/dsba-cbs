@@ -8,7 +8,7 @@ The central repository for the cours "Data Science fo Business Analytics" (DSBA)
 * Teaching assistant: Christian Døj Friis (<cdf.digi@cbs.dk>): Feel free to ask for guidance :) (Communication via MS Teams preffered)
 
 
-## Final Assignment
+## Final Project
 * [Description](https://github.com/SDS-AAU/dsba-cbs/blob/master/documents/assignment_requirements.md)
 
 
