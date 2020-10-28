@@ -40,5 +40,5 @@
 ## Assignment
 
 * [Description](https://sds-aau.github.io/dsba-cbs/M2/assignment/README.md)
-* Hand in deadline: **02.22.2020, 11.55pm**
+* Hand in deadline: **02.11.2020, 11.55pm**
 
