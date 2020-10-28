@@ -39,4 +39,4 @@
    
 ## Assignment
 
-* [Description](https://github.com/SDS-AAU/dsba-cbs/blob/master/documents/assignment_requirements.md)
+
