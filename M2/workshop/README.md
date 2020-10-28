@@ -17,7 +17,7 @@
 ### Session 3: 14:30 - 16:00
 * Workshop: NLP + predictive modelling: Congressional tweets
    * Data: https://github.com/SDS-AAU/SDS-master/raw/master/M2/data/pol_tweets.gz
-
+   * R: [Html](https://sds-aau.github.io/SDS-master/M2/exercises/NLP_workshop_1_debate_tweets.nb.html)
 
 ## Day 2 (11:45 - 17:00): 
 * Location: Auditorium PH Ovnhallen + MS teams
