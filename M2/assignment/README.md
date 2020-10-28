@@ -107,11 +107,11 @@ Please submit a PDF or HTML version of your notebook on peergrade.io (if you sub
 
 This notebook should:
 
-•	It should solve the questions in an straightforward and elegant way.
-•	It should contain enough explanations to enable your fellow students (or others on a similar level of knowledge) to clearly understand what you are doing, why, what is the outcome, how to interpret it, and how to reconstruct the exercise. Be specific and understandable, but brief.
+* It should solve the questions in an straightforward and elegant way.
+* It should contain enough explanations to enable your fellow students (or others on a similar level of knowledge) to clearly understand what you are doing, why, what is the outcome, how to interpret it, and how to reconstruct the exercise. Be specific and understandable, but brief.
 
 Further process and dates
 
-•	You will receive an upload link on peergrade.io with concrete instructions.
-•	The notebook upload is also due xxx, 11:55pm. Delays are not accepted.
-•	After the upload deadline, you will recieve an invitation to peergrade your fellows' exams on peergrade.io. You will be asked for the evaluation of 3 peer-assignments is part of the assignment and mandatory.
+* You will receive an upload link on peergrade.io with concrete instructions.
+* The notebook upload is also due xxx, 11:55pm. Delays are not accepted.
+* After the upload deadline, you will recieve an invitation to peergrade your fellows' exams on peergrade.io. You will be asked for the evaluation of 3 peer-assignments is part of the assignment and mandatory.
