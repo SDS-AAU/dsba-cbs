@@ -33,7 +33,8 @@
 ## Examples
 
 * [SML Mini project](https://sds-aau.github.io/dsba-cbs/documents/M3_example_housrprice.html): 5 ECTs project on predicting housing prices
-* [xx](https://sds-aau.github.io/dsba-cbs/documents/M3_example_sentimnts.html)
+* [SML Mini project](https://sds-aau.github.io/dsba-cbs/documents/M1_example_credit.nb.html): 5 ECTs project on predicting ATM withdrawls
+* [NLP + DL mini project](https://sds-aau.github.io/dsba-cbs/documents/M3_example_sentimnts.html): 5 ECTS project on sentiment analysis plus Deep LEarning predictions.
 
 ## Data Scourses
 
