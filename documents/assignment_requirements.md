@@ -43,3 +43,10 @@
 *
 
 # Further advice
+
+## Managing "bilangual" projects
+
+* Clearly split and define tasks, process steps, deliverables
+* Speficy properties of deliverables (data format, variable types)
+* Use standardized data exchange fomats (csv, json, HDF5) or specific R-python exchange formats (feather)
+* `reticulate` (R) & `rmagic` (Python)
