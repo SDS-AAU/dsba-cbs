@@ -32,8 +32,8 @@
 
 ## Examples
 
-* [XXXX](https://sds-aau.github.io/dsba-cbs/documents/M3_example_housrprice.html)
-*
+* [SML Mini project](https://sds-aau.github.io/dsba-cbs/documents/M3_example_housrprice.html): 5 ECTs project on predicting housing prices
+* [xx](https://sds-aau.github.io/dsba-cbs/documents/M3_example_sentimnts.html)
 
 ## Data Scourses
 
