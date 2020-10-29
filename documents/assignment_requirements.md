@@ -48,7 +48,7 @@
 
 * [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/index.html): Amazing collection of different types of (sometimes rather large) network datasets 
 * [The network repository project](http://networkrepository.com/): Really huge collection of network datasets across all realms.
-* [Sociopattern](http://www.sociopatterns.org/datasets/):
+* [Sociopattern](http://www.sociopatterns.org/datasets/): Really interesting collection of social networks
 
 # Further advice
 
