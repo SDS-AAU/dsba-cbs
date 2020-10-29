@@ -39,8 +39,15 @@
 
 ## Data Scourses
 
-* [Kaggle](https://www.kaggle.com/datasets):
-* Mare to come
+### General
+
+* [Kaggle](https://www.kaggle.com/datasets): ML&DS community & competiton plattform, full of good datasets
+* ...
+
+### Networks
+
+* [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/index.html): Amazing collection of different types of (sometimes rather large) network datasets 
+
 
 # Further advice
 
