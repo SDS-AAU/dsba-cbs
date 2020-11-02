@@ -14,6 +14,8 @@
 
 * Application: Bipartite (2-mode) Networks
    * R: Video [1: Bipartite NW structures](https://www.loom.com/share/7668a71c95f941a1a17148e45ba83689) [2: Application Bibliometric Networks](https://www.loom.com/share/2fdf16a87a9d4eac81d50cef0b55ae3b) [Html](https://sds-aau.github.io/SDS-master/M2/notebooks/network_analysis_application_bipartite.nb.html) [Colab](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M2/notebooks/network_analysis_application_bipartite.ipynb)
+   * Python: Similarity and Bipartite NWs [Video](https://www.loom.com/share/f51efae898ff4d78a69949381b4649fe) [Colab](https://nbviewer.jupyter.org/github/SDS-AAU/SDS-master/blob/master/M2/notebooks/M2_Bipartite_graphs_in_Python.ipynb)
+   Mapping ETF Holdings with NWs [Video](https://www.loom.com/share/3984d91363f54c01b27d8672f382b711?sharedAppSource=personal_library) [Colab](https://nbviewer.jupyter.org/github/SDS-AAU/SDS-master/blob/master/M2/notebooks/M2_Case_ETF_Holdings_Python.ipynb)
  <!---     * Exercise R: [Bibliometric Networks](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M2/exercises/network_analysis_application_bipartit_ex1.ipynb) --->
 
 
@@ -36,3 +38,4 @@
 
 * Application: Vectorization and Topic Modelling
    * Python: [Colab](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M2/notebooks/M2_NLP_TexVec_Py.ipynb) [Video - Ecosystem](https://www.loom.com/share/64b94c41755b4a78bdfe354203c10104) [Video - Tutorial](https://www.loom.com/share/3dc09124ae7a4525872384d13be3ec36)
+
