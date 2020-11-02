@@ -8,6 +8,10 @@ The central repository for the cours "Data Science fo Business Analytics" (DSBA)
 * Teaching assistant: Christian Døj Friis (<cdf.digi@cbs.dk>): Feel free to ask for guidance :) (Communication via MS Teams preffered)
 
 
+## Final Project
+* [Description](https://github.com/SDS-AAU/dsba-cbs/blob/master/documents/assignment_requirements.md)
+
+
 ## Schedule and Calendar:
 
 ### General
@@ -79,4 +83,5 @@ Focuses on analyzing a variety of unstructured data sources. Particularly, stude
 
 ## [M3: Deep Learning and Artificial Intelligence for Analytics](https://sds-aau.github.io/dsba-cbs/M3)
 Introduces to the most recent developments in machine learning, which are deep learning and artificial intelligence applications. The module will provide a solid foundation for this exciting and rapidly developing field. Students will learn whether and how to apply deep learning techniques for business analytics, and acquire proficiency in new methods autonomously.
+
 
