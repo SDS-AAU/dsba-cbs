@@ -1,8 +1,12 @@
 # M3: Deep Learning and Artificial Intelligence for Analytics
 Introduces to the most recent developments in machine learning, which are deep learning and artificial intelligence applications. The module will provide a solid foundation for this exciting and rapidly developing field. Students will learn whether and how to apply deep learning techniques for business analytics, and acquire proficiency in new methods autonomously.
 
+# Part I: Introduction to Artificial Neural Networks & Deep Learning
 
 ## Neural networks: Theory, history and application
+
+* Theory: Introduction to Artificial Neural Networks (ANNs) & Deep Learning (DL): [Video](https://www.loom.com/share/418cea49ec694fe4b42e99088bfdbb84) [Slides](https://sds-aau.github.io/SDS-master/M3/notebooks/ANN_intro.html) 
+
 * Architecture: Neurons, weights, biases, losses
 * Dynamics: feed-forward, back-propagation
 * Infrastructure: Packaging, hardware, data-structures
