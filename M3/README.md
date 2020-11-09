@@ -8,10 +8,10 @@ Introduces to the most recent developments in machine learning, which are deep l
 * Infrastructure: Packaging, hardware, data-structures
 
 ## Simple feed-forward networks (ANNs)
-
+* Application: Python multiclass with Penguins [Video](https://www.loom.com/share/cab10cb936294618a43fce5e8e30a51c) [Colab](https://nbviewer.jupyter.org/github/SDS-AAU/SDS-master/blob/master/M3/notebooks/M3_ANN_Python_Intro.ipynb)
 ## Convolutional neural networks (CNNs)
 
-## Recurrent neural networsk (RNNs / LSTMs)
+## Recurrent neural networks (RNNs / LSTMs)
 
 ## Advanced architectures
 * Autoencoders / Seq2seq models
@@ -34,3 +34,4 @@ Introduces to the most recent developments in machine learning, which are deep l
 * [Keras](https://keras.io/)
 * [R-Keras](https://keras.rstudio.com/)
 * [fast.ai](https://www.fast.ai/)
+* [Machinelearningmastery](https://machinelearningmastery.com/category/deep-learning/)
