@@ -40,8 +40,7 @@
    * Python: [Colab](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M2/notebooks/M2_NLP_TexVec_Py.ipynb) [Video - Ecosystem](https://www.loom.com/share/64b94c41755b4a78bdfe354203c10104) [Video - Tutorial](https://www.loom.com/share/3dc09124ae7a4525872384d13be3ec36)
     * R: [Video](https://www.loom.com/share/e9e054a738f3472983c905b1b739b9c3) [Html](https://sds-aau.github.io/SDS-master/M2/notebooks/NLP_text_vectorization_R.nb.html)
    
-## Assignment
-
-* [Description](https://sds-aau.github.io/dsba-cbs/M2/assignment)
-* Hand in deadline: **02.11.2020, 11.55pm**
-
+## Workshop Recordings
+* [Day 1/1](https://cbs.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=68bcd8cf-dc83-48fc-8f43-ac6300df8b67)
+* [Day 1/2](https://cbs.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=19b25d76-38e8-43b2-ab6e-ac6300df8b95)
+* [Day 2](https://cbs.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=72209ebd-f3d3-4b50-8cbc-ac6300c8f637)

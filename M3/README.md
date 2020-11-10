@@ -32,6 +32,7 @@ Introduces to the most recent developments in machine learning, which are deep l
 * Advanced Deep Learning with Keras
 
 ### Q&A Sessions:
+* [3 November](https://cbs.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=44149dd0-745f-4135-b538-ac6f0138c708)
 * [10 November](https://cbs.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f850a366-ba05-4269-bd88-ac6f010c8a14)
 
 ### Additional:
