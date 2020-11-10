@@ -31,6 +31,9 @@ Introduces to the most recent developments in machine learning, which are deep l
 * Recurrent Neural Networks for Language Modeling in Python
 * Advanced Deep Learning with Keras
 
+### Q&A Sessions:
+* [10 November](https://cbs.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f850a366-ba05-4269-bd88-ac6f010c8a14)
+
 ### Additional:
 
 * [3Blue1Brown Visual Introduction to Neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
