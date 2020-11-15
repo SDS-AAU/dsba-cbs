@@ -48,4 +48,4 @@
 ## Assignment
 
 ### Example Solututions
-  * Python - solid solution of a DSBA student [HTML](https://sds-aau.github.io/dsba-cbs/M2/assignments/M2_example.html)
+  * Python - solid solution of a DSBA student [HTML](https://sds-aau.github.io/dsba-cbs/M2/assignment/M2_example.html)
