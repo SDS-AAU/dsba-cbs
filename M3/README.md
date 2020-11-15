@@ -46,5 +46,6 @@ Introduces to the most recent developments in machine learning, which are deep l
 * [SOTA Language Processing](https://huggingface.co/)
 * [Keras](https://keras.io/)
 * [R-Keras](https://keras.rstudio.com/)
+* [RStudio AI blog](https://blogs.rstudio.com/ai/): Excellent source for frequent torch/keras exercises and announcements within th R ecosystem
 * [fast.ai](https://www.fast.ai/)
 * [Machinelearningmastery](https://machinelearningmastery.com/category/deep-learning/)

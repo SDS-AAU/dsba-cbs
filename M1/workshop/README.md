@@ -13,7 +13,7 @@
 * Introducing the InsideAirB&B dataset
 * Hypothesis generation workshop
 * Group work on EDA
-  * [Getting started and some geoplotting (R)](https://sds-aau.github.io/SDS-master/M1/Notebooks/exercises/ML_workshop_InsideAirBnB_2_SML.nb.html)
+  * [EDA on (R)](https://sds-aau.github.io/SDS-master/M1/Notebooks/exercises/ML_workshop_InsideAirBnB_2_SML.nb.html)
 
 
 ### Session 3: 14:30 - 16:00
