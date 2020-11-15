@@ -44,3 +44,8 @@
 * [Day 1/1](https://cbs.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=68bcd8cf-dc83-48fc-8f43-ac6300df8b67)
 * [Day 1/2](https://cbs.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=19b25d76-38e8-43b2-ab6e-ac6300df8b95)
 * [Day 2](https://cbs.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=72209ebd-f3d3-4b50-8cbc-ac6300c8f637)
+
+## Assignment
+
+### Example Solututions
+  * Python - solid solution of a DSBA student [HTML](https://sds-aau.github.io/dsba-cbs/M2/assignments/M2_example.html)

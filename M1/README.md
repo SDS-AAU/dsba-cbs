@@ -78,3 +78,4 @@ Use this dataset https://sds-aau.github.io/SDS-master/M1/data/cities.csv to appl
 ### M1 Assignment
 * Minimal-Solution 
   * R [Html](https://sds-aau.github.io/SDS-master/M1/Notebooks/assignments/exercise_pokemon_solution.nb.html)
+  * Python - solid solution of a DSBA student [HTML](https://sds-aau.github.io/dsba-cbs/M1/assignments/M1_example.html)
