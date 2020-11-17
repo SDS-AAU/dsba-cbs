@@ -3,8 +3,8 @@
 
 ## Format
 
-* Project report (20-ish pages - max. standard 30 - 2400 characters incl. spaces)
-* Functional and self-contained notebook
+* Project report (standard format, not notebook 20-ish pages - max. standard 30 - 2400 characters incl. spaces)
+* Functional and self-contained notebook as appendix
 * Happy to see GitHub repos (which you can use as your portfolio in the jobmarket)
 * Some study relation (but that is debatable and not necessarily required)
 * Report is a (semi/non) technical documentation. Think about a corporate censor that you try to inform
