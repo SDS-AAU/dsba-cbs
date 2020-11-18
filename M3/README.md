@@ -20,6 +20,7 @@ Introduces to the most recent developments in machine learning, which are deep l
 
 ## Convolutional neural networks (CNNs)
 * Theory [Video](https://www.loom.com/share/fc90e00255e5492986c0026f2ae8b9c6?sharedAppSource=personal_library) [Slides](https://sds-aau.github.io/SDS-master/M3/slides/cnn/)
+* Application [Colab](https://nbviewer.jupyter.org/github/SDS-AAU/SDS-master/blob/master/M3/notebooks/M3_CNN_Intro_Cats%26Dogs.ipynb)
 ## Recurrent neural networks (RNNs / LSTMs)
 
 ## Advanced architectures
