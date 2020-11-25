@@ -1,4 +1,4 @@
-# M3: Deep Learning and Artificial Intelligence for Analytics
+## M3: Deep Learning and Artificial Intelligence for Analytics
 Introduces to the most recent developments in machine learning, which are deep learning and artificial intelligence applications. The module will provide a solid foundation for this exciting and rapidly developing field. Students will learn whether and how to apply deep learning techniques for business analytics, and acquire proficiency in new methods autonomously.
 
 # Part I: Introduction to Artificial Neural Networks & Deep Learning
@@ -12,7 +12,8 @@ Introduces to the most recent developments in machine learning, which are deep l
 * Application: Python multiclass with Penguins [Video](https://www.loom.com/share/cab10cb936294618a43fce5e8e30a51c) [Colab](https://nbviewer.jupyter.org/github/SDS-AAU/SDS-master/blob/master/M3/notebooks/M3_ANN_Python_Intro.ipynb)
 * Application: Images & B Penguins (R) Video [1: Intro](https://www.loom.com/share/b84e8e5228034031b0febe40a01f5e22) [2: Details & Tabular Data Example](https://www.loom.com/share/0b4e1a4d456e46388eb2afd30be369fd) [Html](https://sds-aau.github.io/SDS-master/M3/notebooks/ANN_application_R.nb.html)
 
-## Convolutional neural networks (CNNs)
+# Part II:  Convolutional neural networks (CNNs)
+
 * Theory [Video](https://www.loom.com/share/fc90e00255e5492986c0026f2ae8b9c6?sharedAppSource=personal_library) [Slides](https://sds-aau.github.io/SDS-master/M3/slides/cnn/)
 * Application Python
    * Application - Dogs&Cats Py[Colab](https://nbviewer.jupyter.org/github/SDS-AAU/SDS-master/blob/master/M3/notebooks/M3_CNN_Intro_Cats%26Dogs.ipynb) [Video](https://www.loom.com/share/a1747302f2d449ae99b6b5ef06a45e37)
@@ -32,7 +33,6 @@ Introduces to the most recent developments in machine learning, which are deep l
    * BiLSTM Language Classification with IMDB reviews [Video](https://www.loom.com/share/ee51f2982a34497eafa5ae77238d72ea) [Colab](https://github.com/SDS-AAU/SDS-master/blob/master/M3/notebooks/bidirectional_lstm_imdb.ipynb)
 
 
-## Advanced architectures
 * Autoencoders / Seq2seq models
 * Transformers
 
