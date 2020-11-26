@@ -24,7 +24,7 @@ Introduces to the most recent developments in machine learning, which are deep l
    * Application - Transfer learning (No Video, watch Python version) [Html (work in progress)](https://sds-aau.github.io/SDS-master/M3/notebooks/CNN_application_Transfer_R.nb.html)
 # Part III: Recurrent neural networks (RNNs / LSTMs)
 
-* Theory [Video](https://www.loom.com/share/4f364594e2ea4bdcb6da5beac12f56f6) [Slides](https://sds-aau.github.io/SDS-master/M3/notebooks/RNN_intro.html)
+* Theory [Video](https://www.loom.com/share/d1b775f28a194fa7a6f6c62d037a9870) [Slides](https://sds-aau.github.io/SDS-master/M3/notebooks/RNN_intro.html)
 
 * Application R
    * Application - Basics & IMDB reviews [Video (Comming soon)](XXXXX)  [Html](https://sds-aau.github.io/SDS-master/M3/notebooks/RNN_application_R.nb.html) [Colab (Comming soon)](XXXXX) 
