@@ -13,7 +13,7 @@
 ### Session 3: 14:30 - 16:00
 * Project presentation slots (5 x 15 min)
 
-## Day 2 (11:45 - 17:00): 
+## Day 2 (11:45 - 17:00 (max)): 
 * Location: HN213 + Zoom
 
 ### Session 1: 11:45 - 13:15
