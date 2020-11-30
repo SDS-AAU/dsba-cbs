@@ -1,5 +1,8 @@
 # DSBA 2020: M3 workshop 
 
+* Preperation: 
+   * Watch: Jan Kinne on [Webscraping and ML-based innovation indicators](https://vimeo.com/485413242) (Password: dsba2020)
+
 ## Day 1 (10:45 - 16:00)
 * Location: DH.Ø 1.41 + Zoom
 
@@ -18,7 +21,7 @@
 * Location: HN213 + Zoom
 
 ### Session 1: 11:45 - 13:15
-* Webscraping: Q&A Jan Kinne
+* Jan Kinne on [Webscraping and ML-based innovation indicators](https://vimeo.com/485413242) (30 min Q&A: Watch video & prepare questions)
 * Methodological outlook
 
 ### Session 2: 13:45 - 15:15
