@@ -33,8 +33,15 @@ Introduces to the most recent developments in machine learning, which are deep l
    * BiLSTM Language Classification with IMDB reviews [Video](https://www.loom.com/share/ee51f2982a34497eafa5ae77238d72ea) [Colab](https://github.com/SDS-AAU/SDS-master/blob/master/M3/notebooks/bidirectional_lstm_imdb.ipynb)
 
 
-* Autoencoders / Seq2seq models
-* Transformers
+# Assignment
+
+To be found [here](https://github.com/SDS-AAU/dsba-cbs/tree/master/M3/assignment)
+
+Minimal Solution Example:
+
+* R (minimal, minimal commented) [here](https://sds-aau.github.io/SDS-master/M3/exercises/ANN_workshop.nb.html)
+*
+
 
 ## Prep:
 
