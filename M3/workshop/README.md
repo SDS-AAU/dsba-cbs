@@ -1,6 +1,6 @@
 # DSBA 2020: M3 workshop 
 
-## Day 1 (10:45 - 16:00): Introduction, EDA & SML
+## Day 1 (10:45 - 16:00)
 * Location: Auditorium PH Ovnhallen + MS teams
 
 ### Session 1: 10:45 - 12:15
