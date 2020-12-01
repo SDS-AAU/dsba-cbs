@@ -9,6 +9,7 @@
 ### Session 1: 10:45 - 12:15
 * Working with sequential data (RNN + LSTM)
 * Example: Stock-price prediction
+   * [R starter notebook](https://sds-aau.github.io/SDS-master/M3/exercises/LSTM_workshop_stock_prediction_R.nb.html)
 
 ### Session 2: 12:45 - 14:15
 * Further work on the models
