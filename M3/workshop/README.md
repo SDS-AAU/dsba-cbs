@@ -10,10 +10,13 @@
 * Working with sequential data (RNN + LSTM)
 * Example: Stock-price prediction
    * [R starter notebook](https://sds-aau.github.io/SDS-master/M3/exercises/LSTM_workshop_stock_prediction_R.nb.html)
+   * [Python 1-step prediction with OMXH25](https://github.com/SDS-AAU/dsba-cbs/blob/master/M3/workshop/SimpleRNN_stocks_1.ipynb)
 
 ### Session 2: 12:45 - 14:15
 * Further work on the models
-* Introduction to sequence-to-sequence predictions.
+* Multi-step-predictions
+* [Python multi-step prediction with OMXH25](https://github.com/SDS-AAU/dsba-cbs/blob/master/M3/workshop/SimpleRNN_stocks_multiple_steps.ipynb)
+
 
 ### Session 3: 14:30 - 16:00
 * Project presentation slots (5 x 15 min slots)
