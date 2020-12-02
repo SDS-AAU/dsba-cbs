@@ -29,6 +29,9 @@
    * Demo notebook [Colab](https://colab.research.google.com/github/datawizard1337/EZ_Text_Mining/blob/master/Text_Mining.ipynb#&offline=true&sandboxMode=true)
    * Argus Webscraper Repo [Github](https://github.com/datawizard1337/ARGUS)
 * Methodological outlook
+   * Sequence-2-sequence prdiction
+   * Transformers 1:
+   * Transformers 2: SBERT for similarity calculation [Colab](https://github.com/SDS-AAU/SDS-master/blob/master/M3/exercises/Claim_Similarity_and_Classification_SBERT_KNN.ipynb)
 
 ### Session 2: 13:45 - 15:15
 * Project presentation (5 x 15 min slots)
