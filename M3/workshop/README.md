@@ -26,6 +26,7 @@
 
 ### Session 1: 11:45 - 13:15
 * Jan Kinne on [Webscraping and ML-based innovation indicators](https://vimeo.com/485413242) (30 min Q&A: Watch video & prepare questions)
+   * Demo notebook [Colab](https://colab.research.google.com/github/datawizard1337/EZ_Text_Mining/blob/master/Text_Mining.ipynb#&offline=true&sandboxMode=true)
 * Methodological outlook
 
 ### Session 2: 13:45 - 15:15
