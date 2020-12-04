@@ -29,6 +29,7 @@
    * Demo notebook [Colab](https://colab.research.google.com/github/datawizard1337/EZ_Text_Mining/blob/master/Text_Mining.ipynb#&offline=true&sandboxMode=true)
    * Argus Webscraper Repo [Github](https://github.com/datawizard1337/ARGUS)
 * Methodological outlook
+   * Multivariate-multi-step LSTM [Colab](https://github.com/SDS-AAU/dsba-cbs/blob/master/M3/workshop/Multivariate_time_series_LSTM_easy.ipynb)
    * Autoencoder examples and anomaly detection [Colab](https://github.com/SDS-AAU/dsba-cbs/blob/master/M3/workshop/Autoencoder_SDS.ipynb)
    * GTP2 finetuning and Text generation [Colab](https://github.com/SDS-AAU/dsba-cbs/blob/master/M3/workshop/GPT2_textgeneration.ipynb) 
    * Transformers 2: SBERT for similarity calculation [Colab](https://github.com/SDS-AAU/SDS-master/blob/master/M3/exercises/Claim_Similarity_and_Classification_SBERT_KNN.ipynb)
